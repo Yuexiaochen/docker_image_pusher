@@ -7,3 +7,4 @@
 --platform=linux/amd64 lovechen/embyserver:latest
 --platform=linux/amd64 portainer/portainer-ce:2.9.1
 xiaoyi510/xarr-rss
+jlesage/firefox:latest
