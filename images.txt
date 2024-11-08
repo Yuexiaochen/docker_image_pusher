@@ -4,9 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/amd64 lovechen/embyserver:latest
---platform=linux/amd64 portainer/portainer-ce:2.9.1
 xiaoyi510/xarr-rss
---platform=linux/amd64 lscr.io/linuxserver/chromium:latest
-mcr.microsoft.com/edge-dev:latest
 mtphotos/mt-photos
