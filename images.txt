@@ -9,3 +9,4 @@
 xiaoyi510/xarr-rss
 --platform=linux/amd64 lscr.io/linuxserver/chromium:latest
 mcr.microsoft.com/edge-dev:latest
+mtphotos/mt-photos
