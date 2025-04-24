@@ -7,4 +7,4 @@
 #xiaoyi510/xarr-rss
 #mtphotos/mt-photos
 #portainer/portainer-ce
-rustdesk-server-s6:latest
+rustdesk/rustdesk-server-s6:latest
